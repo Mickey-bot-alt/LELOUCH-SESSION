@@ -1,0 +1,23 @@
+
+{
+    "name": "LELOUCH-SESSION",
+    "description": "Web Session Generator",
+    "logo": "https://files.catbox.moe/nj1suc.jpeg",
+    "repository": "https://github.com/Mickey-bot-alt/LELOUCH-SESSION  ",
+    "keywords": ["Malvin-Tech"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "Just Leave This Blank",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
