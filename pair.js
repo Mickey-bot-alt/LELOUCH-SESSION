@@ -126,7 +126,7 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://www.whatsapp.com/channel/0029Vasx8At6hENi5sCNp70j) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/Mickey-bot-alt/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [LELOUCH GitHub Repo](https://github.com/Mickey-bot-alt/)  
 
 🚀 _Thanks for choosing LELOUCH — Let the automation begin!_ ✨`;
 
